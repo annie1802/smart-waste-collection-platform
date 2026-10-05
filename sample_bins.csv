@@ -1,0 +1,7 @@
+bin_id,location,fill_level,priority
+B001,Sector 1,90,1
+B002,Sector 2,55,3
+B003,Sector 3,95,1
+B004,Sector 4,72,2
+B005,Sector 5,40,4
+B006,Sector 6,85,2
